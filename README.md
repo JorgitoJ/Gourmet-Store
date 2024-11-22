@@ -1,3 +1,6 @@
+Este proyecto desarrolla una interfaz moderna y responsiva para una tienda de un restaurante, utilizando las tecnologías populares React y Tailwind CSS.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
