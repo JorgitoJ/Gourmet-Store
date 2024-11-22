@@ -114,12 +114,7 @@ function App() {
               <p className='text-gray-400'>$8.00</p>
               <p className='text-gray-600'>20 Bolws availables</p>
             </div>
-            <div className='bg-[#1F1D2B] rounded-lg md:p-5 p-8 flex flex-col items-center justify-evenly'>
-              <img src= {foto} className='w-60 h-60 lg:w-40 lg:h-40 object-cover -mt-20 p-2 rounded-full'/>
-              <p className='text-gray-300 text-xl'>Chiken Salad</p>
-              <p className='text-gray-400'>$8.00</p>
-              <p className='text-gray-600'>20 Bolws availables</p>
-            </div>           
+                      
           </div>
         </div>
         <div className='lg:col-span-2 fixed right-0 lg:static bg-[#1F1D2B] w-full h-full top-0 '>
